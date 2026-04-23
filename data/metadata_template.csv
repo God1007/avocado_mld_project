@@ -1,0 +1,5 @@
+image_path,fruit_id,storage_condition,day,stage,view
+images/F001_day01_front.jpg,F001,cold,1,1,front
+images/F001_day01_back.jpg,F001,cold,1,1,back
+images/F001_day03_front.jpg,F001,cold,3,2,front
+images/F002_day01_front.jpg,F002,ambient,1,2,front

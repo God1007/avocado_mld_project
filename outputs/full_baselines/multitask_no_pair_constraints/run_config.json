@@ -1,0 +1,18 @@
+{
+  "metadata_csv": "data\\metadata.csv",
+  "image_root": ".",
+  "output_dir": "outputs\\full_baselines\\multitask_no_pair_constraints",
+  "image_size": 224,
+  "batch_size": 24,
+  "num_workers": 0,
+  "epochs": 3,
+  "learning_rate": 0.0001,
+  "weight_decay": 0.0001,
+  "latent_margin": 0.05,
+  "random_state": 42,
+  "lambda_ord": 1.0,
+  "lambda_reg": 1.0,
+  "lambda_temp": 0.0,
+  "lambda_view": 0.0,
+  "device": "cuda"
+}
